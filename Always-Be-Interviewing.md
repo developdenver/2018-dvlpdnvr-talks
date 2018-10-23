@@ -9,6 +9,6 @@ _Team builder, adventure sports junkie, culture cultivator_
 
 
 ## Slides
-* [Slide Deck](https://docs.google.com/presentation/d/10BltkBEyctS9Q1eSN6Y7nBHmqpAoZfDBXtH-WqIOYCI/edit?usp=sharing)
+* [Slide Deck](https://docs.google.com/presentation/d/1Itkd9tzCPQHiBLaK8H5cLkh_JsXDFQKHaYfW50SFfio/edit?usp=sharing)
 
 ![image](https://i.imgur.com/OGf6ETF.png)
