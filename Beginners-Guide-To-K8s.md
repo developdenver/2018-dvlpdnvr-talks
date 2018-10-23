@@ -3,9 +3,9 @@ _Kim Schlesinger, SRE at ReactiveOps_
 
 * `@kim` on Denver Devs
 * `kimschles` on github and twitter
-* [kimschlesinger.com](kimschlesinger.com)
-* [reactiveops.com](reactiveops.com)
-* [hirediversity.us](hirediversity.us)  
+* [kimschlesinger.com](https://kimschlesinger.com/)
+* [reactiveops.com](https://reactiveops.com/)
+* [hirediversity.us](https://hirediversity.us/)  
 
 
 ## Slides and Other Resources
