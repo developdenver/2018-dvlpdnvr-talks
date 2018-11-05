@@ -2,8 +2,8 @@
 _Michael Dusing_ 
 
 * `@mdusing` on Denver-Devs Slack
-* @mdusing on Twitter
-* [michael.dusing.com](michael.dusing.com)
+* `@mdusing` on Twitter
+* [michael.dusing.com](http://michael.dusing.com/)
 
 
 ## Slides and Other Resources
