@@ -1,4 +1,4 @@
-## Name of Talk 
+## Amazon Machine Learning: Super Simple Supervised Learning
 _Dan Moore, Director Of Engineering at [Culture Foundry](https://www.culturefoundry.com)_ 
 
 * dan@mooreds.com
