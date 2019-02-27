@@ -2,6 +2,10 @@
 
 *Presented by Brooke Kuhlmann*.
 
+## Presentation
+
+- [Video](https://www.youtube.com/watch?v=UWwazJ_46s0) - The video recording of my presentation.
+
 ## Slides
 
 - [Keynote Presentation](https://speakerdeck.com/bkuhlmann/the-git-rebase-workflow) - This was
